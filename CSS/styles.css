@@ -80,19 +80,6 @@ a:hover {
   width: 50%;
   margin: 50px auto;
   line-height: 2;
-  text-align: left;
-}
-
-.designdevlopment {
-  width: 25%;
-  float: left;
-  margin-right: 30px;
-}
-
-.computer {
-  width: 25%;
-  float: right;
-  margin-left: 30px;
 }
 
 .copyright {
